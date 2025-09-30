@@ -1,0 +1,10 @@
+[project]
+name = "example-distributed-sqlite-immutable-record"
+version = "0.1.0"
+description = "Companion code for the blog post 'Distributed SQLite as an Immutable Record'. Demonstrates multiple SQLite databases acting as peers with Merkle tree fingerprints for immutable state comparison."
+authors = [
+    { name = "Stephen Collins" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
